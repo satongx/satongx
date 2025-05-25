@@ -54,7 +54,7 @@ Here are some of the tools and technologies I work with:
 
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
 - Twitter: [@your-twitter](https://twitter.com/your-twitter)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [satongxayyalath@gmail.com](mailto:satongxayyalath@gmail.com)
 
 Feel free to reach out if you'd like to collaborate, chat, or just connect!
 
