@@ -52,7 +52,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+- LinkedIn: (linkedin.com/in/satong-xayyalath-5b907233a)
 - Twitter: [@your-twitter](https://twitter.com/your-twitter)
 - Email: [satongxayyalath@gmail.com](mailto:satongxayyalath@gmail.com)
 
